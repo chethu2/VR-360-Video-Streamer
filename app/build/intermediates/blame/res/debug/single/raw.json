@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\directlight.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\directlight.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cubemap_vert.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\cubemap_vert.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fragment_template.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\fragment_template.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\vcolor_fragment.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\vcolor_fragment.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ext_tex_frag.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\ext_tex_frag.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\posteffect_quad.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\posteffect_quad.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\vertexmorph.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\vertexmorph.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\oes_convolution_frag.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\oes_convolution_frag.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\color_shader_frag.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\color_shader_frag.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\texture_surface.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\texture_surface.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\phong_surface.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\phong_surface.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\color_blend_frag.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\color_blend_frag.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\vertex_shadow.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\vertex_shadow.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fragment_template_multitex.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\fragment_template_multitex.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\inverted_colors_vertex.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\inverted_colors_vertex.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pbr_addlight.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\pbr_addlight.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pos_tex_ubo.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\pos_tex_ubo.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\oes_convolution_vert.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\oes_convolution_vert.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\vert_flip_tex.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\vert_flip_tex.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\spotlight.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\spotlight.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\color_blend_vert.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\color_blend_vert.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\vertexskinning.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\vertexskinning.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cubemap_reflection_frag.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\cubemap_reflection_frag.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\color_shader_vert.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\color_shader_vert.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\oes_vertical_frag.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\oes_vertical_frag.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\addlight.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\addlight.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\vcolor_vertex.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\vcolor_vertex.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\directshadowlight.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\directshadowlight.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\yuv_nv21_to_rgb.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\yuv_nv21_to_rgb.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pos_only.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\pos_only.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\vertex_template_depth.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\vertex_template_depth.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cubemap_frag.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\cubemap_frag.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\unlit_flip_tex.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\unlit_flip_tex.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\vertex_template_multitex.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\vertex_template_multitex.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\normalmap.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\normalmap.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hud_console.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\hud_console.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pos_norm_multitex.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\pos_norm_multitex.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\unlit_horizontal_frag.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\unlit_horizontal_frag.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cubemap_reflection_vert.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\cubemap_reflection_vert.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pos_norm_tex.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\pos_norm_tex.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\phong_surface_layertex.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\phong_surface_layertex.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\inverted_colors_fragment.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\inverted_colors_fragment.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\oes_horizontal_stereo_frag.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\oes_horizontal_stereo_frag.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\spotshadowlight.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\spotshadowlight.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\horz_flip_tex.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\horz_flip_tex.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\depth_shader.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\depth_shader.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\phong_surface_multitex.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\phong_surface_multitex.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pos_ubo.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\pos_ubo.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gear_vr_controller.obj",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\gear_vr_controller.obj"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pbr_surface.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\pbr_surface.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\vertex_template.vsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\vertex_template.vsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pointlight.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\pointlight.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\unlit_tex_frag.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\unlit_tex_frag.fsh"
+    },
+    {
+        "merged": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\res\\merged\\debug\\raw\\unlit_vertical_frag.fsh",
+        "source": "D:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\exploded-aar\\org.gearvrf\\framework\\4.0.1-SNAPSHOT\\res\\raw\\unlit_vertical_frag.fsh"
+    }
+]

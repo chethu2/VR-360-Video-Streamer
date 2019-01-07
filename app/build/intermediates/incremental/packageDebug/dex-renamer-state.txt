@@ -1,0 +1,7 @@
+#Mon Oct 15 15:32:44 IST 2018
+base.0=D\:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4511d5ff9cd6f5e68eb2f6d408818e0f5353945f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_07ebbba207d2896515db7277f806963d81de9f9a\\classes.dex
+base.1=D\:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_07ebbba207d2896515db7277f806963d81de9f9a
+file.0=D\:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4511d5ff9cd6f5e68eb2f6d408818e0f5353945f\\classes.dex

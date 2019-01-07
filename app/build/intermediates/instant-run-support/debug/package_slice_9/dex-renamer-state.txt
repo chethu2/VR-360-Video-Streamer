@@ -1,0 +1,4 @@
+#Sat Oct 13 19:58:11 IST 2018
+base.0=D\:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=D\:\\userdata\\chea\\Desktop\\Android work\\VR_Streamer\\VR Streamer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

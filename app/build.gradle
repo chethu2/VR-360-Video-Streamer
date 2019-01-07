@@ -1,0 +1,86 @@
+apply plugin: 'com.android.application'
+
+System.setProperty("appName", "gvr-360video")
+
+if(file("common.gradle").exists()) {
+    apply from: 'common.gradle'
+}
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.3"
+
+    defaultConfig {
+        applicationId "com.nokia.gvrvideo"
+        multiDexEnabled true
+        minSdkVersion 21
+        targetSdkVersion 21
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    sourceSets.main {
+        jni.srcDirs = [] // no auto generation of Android.mk
+        jniLibs.srcDir 'libs' // pre-compiled libraries
+    }
+    packagingOptions {
+        exclude 'lib/x86/libgvr.so'
+        pickFirst 'lib/*/libc++_shared.so'
+        pickFirst 'lib/*/libgnustl_shared.so'
+        if (!project.hasProperty("ARM64")) {
+            exclude 'lib/arm64-v8a/*.so'
+        } else {
+            exclude 'lib/armeabi-v7a/*.so'
+        }
+    }
+}
+
+
+repositories {
+    jcenter()
+    maven {
+        url 'https://maven.google.com/'
+        name 'Google'
+    }
+    jcenter()
+
+    maven {
+        url "https://oss.sonatype.org/content/repositories/snapshots/"
+    }
+    maven {
+        url "http://google.bintray.com/googlevr"
+    }
+    maven{
+        url "https://jitpack.io"
+
+    }
+    flatDir {
+        dirs '../../GearVRf/GVRf/gearvrf-libs', '../../../GearVRf/GVRf/gearvrf-libs', '../../../../GearVRf/GVRf/gearvrf-libs'
+    }
+}
+dependencies {
+    compile 'com.google.android.exoplayer:exoplayer:2.7.3'
+    compile "com.google.code.gson:gson:2.8.2"
+    compile "org.joml:joml-android:1.9.3-SNAPSHOT"
+    compile 'com.google.android.exoplayer:exoplayer:r1.5.10'
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    //required, enough for most devices.
+    compile 'com.android.support:recyclerview-v7:25.3.1'
+    compile 'com.android.support:cardview-v7:25.3.1'
+    compile ('io.socket:socket.io-client:1.0.0') {
+        // excluding org.json which is provided by Android
+        exclude group: 'org.json', module: 'json'
+    }
+    compile 'com.google.android:support-v4:r7'
+    compile "org.gearvrf:framework:4.0.1-SNAPSHOT"
+    compile "org.gearvrf:backend_oculus:4.0.1-SNAPSHOT"
+    compile 'com.google.android.exoplayer:extension-rtmp:2.7.3'
+}

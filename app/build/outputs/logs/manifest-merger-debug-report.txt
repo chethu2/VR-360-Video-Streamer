@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:16:1-42:12
+	package
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:17:7-40
+		INJECTED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:19:7-32
+		INJECTED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:18:7-30
+		INJECTED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:16:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:21:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:22:5-74
+	android:name
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:22:22-71
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:23:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:24:22-76
+application
+ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:26:5-41:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\chea\.android\build-cache\2c6b08a1155f093f2ffd4206ae9a39614a97b0c5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\chea\.android\build-cache\39cc4ca1ccf691c3265b85d7aa97829154d4c842\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\chea\.android\build-cache\bbb91e4d7a07cad8cf93c6ece23d696c9d19504a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\chea\.android\build-cache\f44ccbb000c6aa43f03a77aff50267f4b1bd9dd8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\chea\.android\build-cache\1faf48b159cb761d01d59f65fa1740a979789d89\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\chea\.android\build-cache\9fb99539ff5f02dcfbe04ca200dcd8ed015b7efd\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\chea\.android\build-cache\79b9d8a2c1e1d84878dfa7fe6eb6400eb5f8cf6d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\chea\.android\build-cache\ef735e965aea928e1835a3ed12ed4177a789370f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\chea\.android\build-cache\9bf3388ddbc89add09c63faf4e71b19b3d031286\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\chea\.android\build-cache\31e286cdb12ac5f53f1884f53da7f2729e27b820\output\AndroidManifest.xml:26:5-20
+MERGED from [org.gearvrf:framework:4.0.1-SNAPSHOT] D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\build\intermediates\exploded-aar\org.gearvrf\framework\4.0.1-SNAPSHOT\AndroidManifest.xml:36:5-39:19
+	android:label
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:26:18-45
+	android:icon
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:26:46-82
+	android:largeHeap
+		ADDED from [org.gearvrf:framework:4.0.1-SNAPSHOT] D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\build\intermediates\exploded-aar\org.gearvrf\framework\4.0.1-SNAPSHOT\AndroidManifest.xml:37:9-33
+	android:theme
+		ADDED from [org.gearvrf:framework:4.0.1-SNAPSHOT] D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\build\intermediates\exploded-aar\org.gearvrf\framework\4.0.1-SNAPSHOT\AndroidManifest.xml:38:9-44
+meta-data#com.samsung.android.vr.application.mode
+ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:27:9-100
+	android:value
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:27:75-98
+	android:name
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:27:20-74
+activity#com.nokia.vr.VRStreamerActivity
+ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:28:9-35:20
+	android:screenOrientation
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:29:19-56
+	android:launchMode
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:30:19-50
+	android:name
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:28:19-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:33:27-74
+activity#com.nokia.vr.VideoPlayerActivity
+ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:36:9-37:100
+	android:screenOrientation
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:37:13-50
+	android:label
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:36:19-54
+	android:configChanges
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:37:51-97
+	android:name
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:36:55-102
+service#com.nokia.vr.BluetoothConnectionService
+ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:38:5-40:15
+	android:enabled
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:39:9-31
+	android:name
+		ADDED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml:38:14-68
+uses-sdk
+INJECTED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.3] C:\Users\chea\.android\build-cache\16b68bc35f85decd604912f299784ec56d68962d\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.3] C:\Users\chea\.android\build-cache\a1c4c7a63aa336a1632abf15a00266b43e8e0fc7\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.3] C:\Users\chea\.android\build-cache\b53445c448ca51de69e36e3965adb69e099b96c7\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.3] C:\Users\chea\.android\build-cache\7fd8ae6c4285cc4d61c493bdd44c4be35c2782ca\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.3] C:\Users\chea\.android\build-cache\ae0720f05446339469f331c65b03790b1d8ff805\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\chea\.android\build-cache\2c6b08a1155f093f2ffd4206ae9a39614a97b0c5\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\chea\.android\build-cache\39cc4ca1ccf691c3265b85d7aa97829154d4c842\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\chea\.android\build-cache\bbb91e4d7a07cad8cf93c6ece23d696c9d19504a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\chea\.android\build-cache\f44ccbb000c6aa43f03a77aff50267f4b1bd9dd8\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\chea\.android\build-cache\1faf48b159cb761d01d59f65fa1740a979789d89\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\chea\.android\build-cache\9fb99539ff5f02dcfbe04ca200dcd8ed015b7efd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\chea\.android\build-cache\79b9d8a2c1e1d84878dfa7fe6eb6400eb5f8cf6d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\chea\.android\build-cache\e54116dd54be4ad503985a3b0dfe2e7718c4c41a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\chea\.android\build-cache\ef735e965aea928e1835a3ed12ed4177a789370f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\chea\.android\build-cache\9bf3388ddbc89add09c63faf4e71b19b3d031286\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\chea\.android\build-cache\31e286cdb12ac5f53f1884f53da7f2729e27b820\output\AndroidManifest.xml:20:5-43
+MERGED from [org.gearvrf:framework:4.0.1-SNAPSHOT] D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\build\intermediates\exploded-aar\org.gearvrf\framework\4.0.1-SNAPSHOT\AndroidManifest.xml:23:5-25:41
+MERGED from [org.gearvrf:backend_oculus:4.0.1-SNAPSHOT] D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\build\intermediates\exploded-aar\org.gearvrf\backend_oculus\4.0.1-SNAPSHOT\AndroidManifest.xml:23:5-25:41
+MERGED from [org.joml:joml-android:1.9.3-SNAPSHOT] D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\build\intermediates\exploded-aar\org.joml\joml-android\1.9.3-SNAPSHOT\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.exoplayer:extension-rtmp:2.7.3] C:\Users\chea\.android\build-cache\5ab303acc6c6d828165e39377ffbd8103b451a0f\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.3] C:\Users\chea\.android\build-cache\2a672132b4d736feedeac241a7753ceffa171aa5\output\AndroidManifest.xml:20:5-22:41
+MERGED from [net.butterflytv.utils:rtmp-client:3.0.1] C:\Users\chea\.android\build-cache\c7429c6af20436171d592d8f3f30fac9e8e67c76\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\chea\.android\build-cache\2c6b08a1155f093f2ffd4206ae9a39614a97b0c5\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\chea\.android\build-cache\2c6b08a1155f093f2ffd4206ae9a39614a97b0c5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\chea\.android\build-cache\39cc4ca1ccf691c3265b85d7aa97829154d4c842\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\chea\.android\build-cache\bbb91e4d7a07cad8cf93c6ece23d696c9d19504a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\chea\.android\build-cache\f44ccbb000c6aa43f03a77aff50267f4b1bd9dd8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\chea\.android\build-cache\1faf48b159cb761d01d59f65fa1740a979789d89\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\chea\.android\build-cache\9fb99539ff5f02dcfbe04ca200dcd8ed015b7efd\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\chea\.android\build-cache\79b9d8a2c1e1d84878dfa7fe6eb6400eb5f8cf6d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\chea\.android\build-cache\e54116dd54be4ad503985a3b0dfe2e7718c4c41a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\chea\.android\build-cache\ef735e965aea928e1835a3ed12ed4177a789370f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\chea\.android\build-cache\9bf3388ddbc89add09c63faf4e71b19b3d031286\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\chea\.android\build-cache\31e286cdb12ac5f53f1884f53da7f2729e27b820\output\AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\chea\.android\build-cache\2c6b08a1155f093f2ffd4206ae9a39614a97b0c5\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\chea\.android\build-cache\2c6b08a1155f093f2ffd4206ae9a39614a97b0c5\output\AndroidManifest.xml:26:9-47
+uses-permission#com.samsung.android.hmt.permission.READ_SETTINGS
+ADDED from [org.gearvrf:framework:4.0.1-SNAPSHOT] D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\build\intermediates\exploded-aar\org.gearvrf\framework\4.0.1-SNAPSHOT\AndroidManifest.xml:30:5-88
+	android:name
+		ADDED from [org.gearvrf:framework:4.0.1-SNAPSHOT] D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\build\intermediates\exploded-aar\org.gearvrf\framework\4.0.1-SNAPSHOT\AndroidManifest.xml:30:22-85
+uses-feature#0x00030000
+ADDED from [org.gearvrf:framework:4.0.1-SNAPSHOT] D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\build\intermediates\exploded-aar\org.gearvrf\framework\4.0.1-SNAPSHOT\AndroidManifest.xml:32:5-34:35
+	android:glEsVersion
+		ADDED from [org.gearvrf:framework:4.0.1-SNAPSHOT] D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\build\intermediates\exploded-aar\org.gearvrf\framework\4.0.1-SNAPSHOT\AndroidManifest.xml:33:9-41
+	android:required
+		ADDED from [org.gearvrf:framework:4.0.1-SNAPSHOT] D:\userdata\chea\Desktop\Android work\VR_Streamer\VR Streamer\app\build\intermediates\exploded-aar\org.gearvrf\framework\4.0.1-SNAPSHOT\AndroidManifest.xml:34:9-32
+uses-permission#android.permission.INTERNET
+ADDED from [net.butterflytv.utils:rtmp-client:3.0.1] C:\Users\chea\.android\build-cache\c7429c6af20436171d592d8f3f30fac9e8e67c76\output\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [net.butterflytv.utils:rtmp-client:3.0.1] C:\Users\chea\.android\build-cache\c7429c6af20436171d592d8f3f30fac9e8e67c76\output\AndroidManifest.xml:11:22-64
